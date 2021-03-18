@@ -1,7 +1,6 @@
-def hello():
+def greeting():
     for i in range(10):
-        print("Pond:",i+1)
+        print("greeting:",i+1)
 
-name = input("Enter your name:")
-print(f"hello {Pond} ")
- 
+def f1():
+    print(""F1)
