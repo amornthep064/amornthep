@@ -3,4 +3,4 @@ def greeting():
         print("greeting:",i+1)
 
 def f1():
-    print(""F1)
+    print(""f1)
